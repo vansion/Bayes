@@ -69,7 +69,7 @@
 * 如果没有设置关注列表，用户需要新建一个关注列表
 * 选择关注列表后用户可以对地址进行标注，并可以在地址详情页看到标注信息（仅标注用户自己可见）
 * 用户可以在个人账号页查看和管理关注列表以及标注信息。
-![添加关注](https://raw.githubusercontent.com/vansion/pictures/master/bayes/flowaddress.png "将地址添加到关注列表")
+![添加关注](https://raw.githubusercontent.com/vansion/Bayes/master/pictures/followaddress.png "将地址添加到关注列表")
 
 #### 后台管理
 * 管理员可以通过`用户地址标注`，从后台查看用户地址标注列表。
