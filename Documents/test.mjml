@@ -1,0 +1,17 @@
+<mjml>
+  <mj-head>
+    <mj-title>Bayes verify email address</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet" />
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, Arial, sans-serif" padding="0px"></mj-all>
+      <mj-text font-weight="400" font-size="14px" color="#000000" line-height="21px"></mj-text>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
