@@ -114,8 +114,7 @@
     </mj-section>
     <mj-section padding="10px 0 20px 0">
       <mj-column>
-        <mj-text align="center" color="#9B9B9B" font-size="11px"><a href="#" style="color: #9B9B9B;">Unsubscribe</a> from this newsletter<br>Icon made by Freepik from <a href="http://www.flaticon.com" target="_blank" style="color: #9B9B9B; text-decoration: none;">www.flaticon.com</a><br> <a href="http://svenhaustein.de"
-            style="color: #9B9B9B; text-decoration:none;">Made by svenhaustein.de</a></mj-text>
+        <mj-text align="center" color="#9B9B9B" font-size="11px"><a href="#" style="color: #9B9B9B;">Unsubscribe</a> from this newsletter<br>Icon made by Freepik from <a href="http://www.flaticon.com" target="_blank" style="color: #9B9B9B; text-decoration: none;">www.flaticon.com</a><br> <a href="http://svenhaustein.de" style="color: #9B9B9B; text-decoration:none;">Made by svenhaustein.de</a></mj-text>
       </mj-column>
     </mj-section>
   </mj-body>

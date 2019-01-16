@@ -1,16 +1,44 @@
 <mjml>
   <mj-head>
     <mj-title>Bayes verify email address</mj-title>
-    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,700"/>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" />
     <mj-attributes>
       <mj-all font-family="Roboto, Helvetica, Arial, sans-serif" padding="0px"></mj-all>
-      <mj-text font-weight="400" font-size="14px" color="#000000" line-height="21px"></mj-text>
+      <mj-text font-size="14px" color="#000000" line-height="21px"></mj-text>
     </mj-attributes>
   </mj-head>
-  <mj-body background-color="#fafafa">
-    <mj-section padding="20px 0 0 0">
+  <mj-body width="542px" background-color="#fafafa">
+    <mj-section padding="20px 0">
       <mj-column>
-        <mj-image src
+        <mj-image align="center" border="none" width="127px" src="https://raw.githubusercontent.com/vansion/Bayes/master/Images/bayeslogo_email.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" border-top="1px solid #E2E2E2" border-left="1px solid #E2E2E2" border-right="1px solid #E2E2E2">
+      <mj-column padding="50px 50px 20px 50px">
+        <mj-text align="left" font-size="16px" color="#586069">您的申请已经通过审核。您只需点击下面按钮验证邮箱地址</mj-text>
+        <mj-text padding-top="10px" align="left" font-size="16px" color="#586069"><span style="color:#000;font-weight:700">name@domain.com</span>，完成账号注册</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" border-left="1px solid #E2E2E2" border-right="1px solid #E2E2E2" padding="0px 0 50px 50px">
+      <mj-column>
+        <mj-button href="http://" align="left">
+          验证邮箱地址
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" border-left="1px solid #E2E2E2" border-right="1px solid #E2E2E2" padding="0 50px 50px 50px">
+      <mj-column>
+        <mj-text font-size="12px">按钮无法使用? 直接通过地址验证: <a style="color:#0366D6;text-decoration: none;" href="https://"><b>https://</b></a></mj-text>
+        <mj-text font-size="12px" padding-top="15px">
+          如果您最近没有申请过Bayes的账号，请忽略此邮件。
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" border-left="1px solid #E2E2E2" border-right="1px solid #E2E2E2" border-bottom="1px solid #E2E2E2" padding="0 50px">
+      <mj-column border-top="1px solid #E1E4E8" padding="25px 0">
+        <mj-text font-size="11px" color="#898989" align="center">
+          <b>Bayes：一个向企业提供区块链数据服务的平台</b>
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
