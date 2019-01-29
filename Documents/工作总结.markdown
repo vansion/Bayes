@@ -1,0 +1,35 @@
+# `2019/1/21-2019/1/25`
+### 本周工作
+##### @VNwayne
+* Coinmarketcap调研
+* 优化`BayesReport`内容
+
+### 重要产出
+##### @VNwayne
+* `BayesReport`4MatrixAINetwork（**1/18-1/24**）
+* Coinmarketcap调研报告（编辑中..）
+
+### 工作计划
+##### @VNwayne
+* `BayesRank`调研
+* Coinmarketcap调研报告
+* `Bayes平台`账号系统测试
+* `BayesReport`4MatrixAINetwork（**1/25-1/31**）
+* 休眠地址检测（依赖链上数据完整）
+
+### 其他
+
+# `2019/1/28-2019/2/2`
+### 本周工作
+* Telegram需求整理
+* Bayes账号系统测试
+* Bayes报告4Matrix
+
+### 重要产出
+
+### 工作计划
+
+### 其他
+* `BayesReport`新增收件Seanzhang@matrix.info
+
+# `春节假期(2/3-2/11)`
