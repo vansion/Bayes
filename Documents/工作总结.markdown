@@ -26,6 +26,10 @@
 * Bayes报告4Matrix
 
 ### 重要产出
+* Telegram市场需求整理
+* 效果图产出
+* Bayes账号系统测试
+* Bayes报告
 
 ### 工作计划
 
@@ -33,3 +37,5 @@
 * `BayesReport`新增收件Seanzhang@matrix.info
 
 # `春节假期(2/3-2/11)`
+
+# `2019/2/8-2019/2/14`
